@@ -47,7 +47,8 @@ nav{
     display: flex;
     justify-content: center;
     width: 40%;
-    height: 120px;
+    height: 130px;
+    
     padding-top:30px;
     padding-bottom: 30px;
     margin-right: 0;
@@ -76,16 +77,18 @@ h3{
     margin-left: 45vw;
     background-color: #344D5B;
     color: white;
-    font-size: 24px;
+    font-size: 4Opx;
    display: flex;
    justify-content: center;
    align-items: center;
    text-align: center;
-   
     width: 16vw;
     height: 6vh;
     padding:1vh;
     margin-top: 6vh;
+    font-weight: 100;
+
+    
     
    
 
@@ -95,6 +98,7 @@ h3{
     text-align: center;
     align-items: center;
     justify-content: center;
+ 
 }
 
 .bouttons{
@@ -106,13 +110,20 @@ h3{
     width: 50px;
 }
 .text{
-    width: 45%;
+   text-align: left;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    font-size:20px;
 }
 
 
 
 
-
+.pfp{
+    margin-left: 10vw;
+    margin-top: 13vh;
+    margin-bottom: 1vw;
+}
 
 footer{
     background-color:rgba(0, 0, 0, 0.777) ;
@@ -125,10 +136,10 @@ footer{
 
 }
 footer img{
-    height: 35px;
-    width: 35px;
+    height: 6vh;
+    width:3vw;
     display: flex;
-    flex-direction: row;
+  
     
 }
 .footer-pack,.outils,.reso{
