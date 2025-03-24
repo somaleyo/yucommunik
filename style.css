@@ -146,6 +146,15 @@ footer img{
   
     
 }
+.sidecontainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    justify-content: space-around ;
+    text-align: center;
+    padding: 4vh;
+}
 
 .compagnes-container{
     display: flex;
