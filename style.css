@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.855);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.navlogo{
+    left: 0px;
+    margin-left: 30px;
+    width: 20%;
+    position: absolute;
+
+}
+
+.navcontainer{
+    display: flex;
+    position: absolute;
+ 
+
+    gap: 10px;
+    width: 80%;
+    color: white;
+ 
+}
