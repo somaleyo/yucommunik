@@ -75,3 +75,47 @@ nav{
    
 
 }
+.eclosion,.evolution,.envol{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.bouttons{
+    background-color: rgba(222, 184, 135, 0.552);
+    
+}
+.buttons img{
+    height: 50px;
+    width: 50px;
+}
+
+
+
+
+
+
+footer{
+    background-color:rgba(0, 0, 0, 0.777) ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    flex-direction: row;
+    gap: 10px;
+
+}
+footer img{
+    height: 35px;
+    width: 35px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.footer-pack,.outils,.reso{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
