@@ -62,16 +62,20 @@ nav{
     
 }
 .titre{
+    margin-left: 45vw;
     background-color: #344D5B;
     color: white;
     font-size: 24px;
-    text-align: center;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    width: 14vw;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   
+    width: 16vw;
     height: 6vh;
-    padding:1vh
+    padding:1vh;
+    margin-top: 6vh;
+    
    
 
 }
@@ -86,7 +90,7 @@ nav{
     background-color: rgba(222, 184, 135, 0.552);
     
 }
-.buttons img{
+.btn{
     height: 50px;
     width: 50px;
 }
