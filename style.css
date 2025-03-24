@@ -5,7 +5,7 @@ body{
 nav{
     background-color: rgba(0, 0, 0, 0.855);
     display: flex;
-    height: 100px;
+    height: 120px;
     align-items: center;
     
 }
@@ -13,16 +13,20 @@ nav{
   display: flex;
   align-items: center;
 
-}
+}   
 
 .navcontainer{
     display: flex;
-    position: absolute;
-    gap: 50px;
-    width: 80%;
+   gap: 20px;
+   width: 80%;
     color: white;
-    top: 0px;
-    height: 70px;
+    font-size: 15px;
+  
     right: 10px;
- 
+    align-items: center;
+    text-align: center;
+    justify-content: flex-end;
+}
+.navcontainer img{
+    height: 55px;
 }
