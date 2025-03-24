@@ -102,7 +102,7 @@ h3{
 }
 
 .bouttons{
-    background-color: rgba(222, 184, 135, 0.552);
+    background-color:#EAE3D6;
     
 }
 .btn{
@@ -126,7 +126,7 @@ h3{
 }
 
 footer{
-    background-color:rgba(0, 0, 0, 0.777) ;
+    background-color:#393A3B ;
     display: flex;
     align-items: center;
     justify-content: space-between;
