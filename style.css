@@ -133,7 +133,7 @@ footer{
     justify-content: space-around;
     text-align: start;
     color: white;
-    padding-bottom: 10vw;
+    padding-bottom: 5vh;
     padding-top: 5vh;
     font-size: 20px;
    
@@ -154,9 +154,10 @@ footer img{
     gap: 10px;
     justify-content: space-around ;
     text-align: center;
+    padding: 4vh;
 }
 .footerp{
-    margin-bottom: 5vh;
+    margin-bottom: 4vh;
 }
 .footerl{
  display: flex;
@@ -164,4 +165,16 @@ footer img{
 }
 .footerl>img {
 padding:10px
+}
+.CBD{
+    margin: 0;
+    padding-bottom: 20px;
+    color:white;
+    margin-left: 95vw;
+    font-size: 15px;
+}
+.apresf{
+    margin: 0;
+    padding: 0;
+    background-color: #393A3B;
 }
