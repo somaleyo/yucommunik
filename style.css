@@ -30,3 +30,11 @@ nav{
 .navcontainer img{
     height: 55px;
 }
+.pack{
+    background-color: #344D5B;
+    color: white   ;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 18p;
+}
