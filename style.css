@@ -130,10 +130,13 @@ footer{
     background-color:#393A3B ;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
+    text-align: start;
     color: white;
-    flex-direction: row;
-    gap: 10px;
+    padding-bottom: 10vw;
+    padding-top: 5vh;
+    font-size: 20px;
+   
 
 }
 footer img{
@@ -143,12 +146,7 @@ footer img{
   
     
 }
-.footer-pack,.outils,.reso{
-    display: flex;
-    gap: 10px;
-    justify-content: center;
-    align-items: center;
-}
+
 .compagnes-container{
     display: flex;
     flex-direction: row;
@@ -156,4 +154,14 @@ footer img{
     gap: 10px;
     justify-content: space-around ;
     text-align: center;
+}
+.footerp{
+    margin-bottom: 5vh;
+}
+.footerl{
+ display: flex;
+ 
+}
+.footerl>img {
+padding:10px
 }
